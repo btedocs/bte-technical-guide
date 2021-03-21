@@ -22,10 +22,10 @@ This page is split into 2 parts: using the automated installer, and performing a
 
 To begin, you will need to download the correct installer for your operating system. These can be found on our Discord server, or below.
 
-* [Windows installer](https://bte-installer.s3.amazonaws.com/public/installer/v1.11/BTEInstaller-1.11-windows.zip)
-* [macOS installer](https://bte-installer.s3.amazonaws.com/public/installer/v1.11/BTEInstaller-1.11-mac.dmg) \(requires macOS 10.15\)
-* [Linux installer](https://bte-installer.s3.amazonaws.com/public/installer/v1.11/BTEInstaller-1.11-linux.tar.gz)
-* [Universal installer](https://bte-installer.s3.amazonaws.com/public/installer/v1.11/BTEInstaller-1.11-universal.jar) \(requires Java 8\)
+* [Windows installer](https://bte-installer.s3.amazonaws.com/public/installer/v1.18/BTEInstaller-1.18-windows.zip)
+* [macOS installer](https://bte-installer.s3.amazonaws.com/public/installer/v1.18/BTEInstaller-1.18-mac.dmg) \(requires macOS 10.15\)
+* [Linux installer](https://bte-installer.s3.amazonaws.com/public/installer/v1.18/BTEInstaller-1.18-linux.AppImage)
+* [Universal installer](https://bte-installer.s3.amazonaws.com/public/installer/v1.18/BTEInstaller-1.18-universal.jar) \(requires Java 8\)
 
 After you’ve completed the installation process, start your Minecraft launcher. You’ll see a new profile called **Build the Earth**. Select that profile and click on **Play** to start. You’ll also see that it has created a pre-generated world for you to start building.
 
@@ -66,7 +66,7 @@ We recommend MultiMC for use with the modpack, as the install won't affect your 
 1. First, set your account by clicking on **Accounts** in the top right corner by clicking **Manage Accounts**.
 2. Click on the **Add** button and log in using your Mojang username and password.
 3. Create a new profile by pressing **Add Instance** in the top left corner.
-4. Go to the **Import from zip** tab and paste`installer.s3.amazonaws.com/public/modpack_versions/BuildTheEarthPack_1.6.zip` into the text box.
+4. Go to the **Import from zip** tab and paste [`https://cdn.discordapp.com/attachments/705931174362611753/823296677024628786/BuildTheEarth_Pack_2.0.zip`](https://cdn.discordapp.com/attachments/705931174362611753/823296677024628786/BuildTheEarth_Pack_2.0.zip) into the text box.
 5. Once the import is done, click on the **Edit Instance** button and go to the **Settings** tab.
 6. Tick the **Memory** box and use the arrows to change the maximum amount of RAM allocated. We recommend somewhere between 4 GB and 8 GB.
 7. Launch the modpack by double-clicking its icon.
